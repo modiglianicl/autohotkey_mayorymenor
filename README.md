@@ -1,2 +1,2 @@
 # autohotkey_mayorymenor
-Script de autohotkey que mapea &lt;> en teclados en ingles a CTRL+, y CTRL+. respectivamente
+Script de autohotkey que mapea &lt;> en teclados en ingles con configuración region ESPAÑOL a "CTRL+," y "CTRL+." respectivamente
