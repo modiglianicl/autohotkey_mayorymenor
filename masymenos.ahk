@@ -1,0 +1,2 @@
+﻿^,::SendInput, {<}
+^.::SendInput, {>}
